@@ -1,0 +1,32 @@
+p {
+  background-color: grey;
+}
+
+p.p1 {
+  background-color: #cc580a;
+}
+
+p.p2 {
+  font-family: "Times New Roman";
+  background-color: blue;
+  color: white;
+}
+
+p.p3 {
+  font-family: monospace;
+  font-size: 16pt;
+  background-color: white;
+  font-weight: lighter;
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
+
+p.p4{
+background-color: white;
+font-family: sans-serif;
+font-weight: bold;
+font-size: 16pt;
+background-color: grey;
+
+}
